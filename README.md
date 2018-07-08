@@ -6,11 +6,15 @@ Implementation of GHF-ART, a heterogeneous data co-clustering algorithm for soci
 
 author={L. Meng and A. H. Tan and D. Xu}, 
 
-journal={IEEE Transactions on Knowledge and Data Engineering},
-
 title={Semi-Supervised Heterogeneous Fusion for Multimedia Data Co-Clustering}, 
-year={2014}, 
+
+journal={IEEE Transactions on Knowledge and Data Engineering},
+ 
 volume={26}, 
+
 number={9}, 
+
 pages={2293-2306}, 
+
+year={2014},
 }
